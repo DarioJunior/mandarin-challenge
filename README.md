@@ -2,7 +2,7 @@
 
 Desafio técnico de replicar um layout pré-estabelecido pela agência.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/DarioJunior/mandarin-challenge/blob/main/src/assets/application.gif?raw=true)
 
 ## Comandos 
 
