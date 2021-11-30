@@ -2,10 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import './styles/global.css';
+import InfoProvider from './context/InfoProvider';
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <InfoProvider>
+      <App />
+    </InfoProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
