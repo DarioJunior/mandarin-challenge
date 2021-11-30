@@ -2,6 +2,8 @@
 
 Desafio técnico de replicar um layout pré-estabelecido pela agência.
 
+![alt text](http://url/to/img.png)
+
 ## Comandos 
 
 No diretório principal:
