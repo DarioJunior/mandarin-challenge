@@ -7,7 +7,9 @@ Desafio técnico de replicar um layout pré-estabelecido pela agência.
 ## Comandos 
 
 No diretório principal:
-### `yarn start`
+Instale as dependências necessárias com o comando: ### `npm install`
+
+Inicia a aplicação localmente com o comando: ### `npm start`
 
 Roda a aplicação em modo de desenvolvimento
 Abrir [http://localhost:3000](http://localhost:3000) para ver no navegador.
