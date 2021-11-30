@@ -1,6 +1,6 @@
 # Mandarin Challenge
 
-Desafio técnico de replicar um layout pré-estabelecido pela agência.
+Desafio técnico de [replicar um layout pré-estabelecido](https://xd.adobe.com/view/e5f959c2-1991-4c66-b1fe-98f3d37f2e74-b0aa/screen/f1881f34-16ea-4b62-9944-18c0f0fb06d5/) pela agência.
 
 ![alt text](https://github.com/DarioJunior/mandarin-challenge/blob/main/src/assets/application.gif?raw=true)
 
